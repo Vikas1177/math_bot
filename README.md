@@ -16,6 +16,7 @@ This project is an intelligent AI agent that solves math problems by decomposing
 ---
 
 ## Architecture
+![architecture](https://github.com/Vikas1177/math_bot/blob/main/bot_Arch.png)
 - Workflow graph managing states such as classification, decomposition, code generation, execution, fallback, and LLM solving.
 - Typed dictionaries for problem states, contexts, and solutions.
 - Integration with LangChain and Google Generative AI for LLM interactions.
